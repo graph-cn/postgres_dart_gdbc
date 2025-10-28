@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## 概要说明
+- 遵循 dart_gdbc 接口
+- PostgreSQL dart 驱动
